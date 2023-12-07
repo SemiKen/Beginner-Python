@@ -9,4 +9,5 @@
   <p> * คือการเขียน Python จากบรรทัดคำสั่งโดยพิมพ์ที่ Command Prompt (ของตัวโปรแกรม Python) หรือ Terminal ใน Visual Code </p>
   <image src=https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg width=50%>
    <p> <b> >>> </b> หมายถึง Python Command Prompt ที่คุณสามารถพิมพ์คำสั่งของคุณได้ ลองพิมพ์ข้อความต่อไปนี้ที่ Python prompt แล้วกด Enter </p>
+    <p> ผลลัพธ์ที่ได้ก็เป็น Hello World! ตามภาพดังกล่าว </p>
 <p> 2. การเขียนโปรแกรมโหมดสคริปต์ </p>
