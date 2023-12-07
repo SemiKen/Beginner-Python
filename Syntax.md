@@ -7,5 +7,5 @@
 <p> โดยคำสั่งแรกที่ใช้คือ Print("Hello World") ด้วยการการใช้สองโหมดที่แตกต่างกันของการเขียนโปรแกรม Python ดังนี้ </p>
 1. การเขียนโปรแกรมโหมดโต้ตอบ
   * คือการเขียน Python จากบรรทัดคำสั่งโดยพิมพ์ที่ Command Prompt (ของตัวโปรแกรม Python) หรือ Terminal ใน Visual Code
-  <image src=https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg width=200px height=200>
+  <image src=https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg width=600px height=200>
 2. การเขียนโปรแกรมโหมดสคริปต์
