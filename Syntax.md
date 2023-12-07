@@ -5,3 +5,7 @@
 
 <h4> การดำเนินการของหรือการรัน Python (ไพทอน) </h4>
 โดยคำสั่งแรกที่ใช้คือ ```python Print("Hello World") ```
+```javascript
+function helloWorld () {
+console.log('Hello, World!');
+} ```
