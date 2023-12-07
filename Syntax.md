@@ -4,8 +4,8 @@
 ไวยากรณ์การเขียนโปรแกรม Python มีความคล้ายคลึงกับ ภาษา Perl, C และ Java แต่ยังไงก็แตกต่างอยู่ดี
 
 <h4> การดำเนินการของหรือการรัน Python (ไพทอน) </h4>
-โดยคำสั่งแรกที่ใช้คือ ```python Print("Hello World") ```
-```javascript
-function helloWorld () {
-console.log('Hello, World!');
-} ```
+โดยคำสั่งแรกที่ใช้คือ Print("Hello World") ด้วยการการใช้สองโหมดที่แตกต่างกันของการเขียนโปรแกรม Python ดังนี้
+1. การเขียนโปรแกรมโหมดโต้ตอบ
+  * คือการเขียน Python จากบรรทัดคำสั่งโดยพิมพ์ที่ Command Prompt (ของตัวโปรแกรม Python) หรือ Terminal ใน Visual Code
+  ![Image](https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg)
+2. การเขียนโปรแกรมโหมดสคริปต์
